@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<body> 
+
+
+<!-- I am such as noob but I am gonna learn this crap. 
+Also, my group just got AAed and I'm an Immagrint now, :(.)-->
+
+<h2> Grits List of Favorite Foods </h2>
+
+<ul>
+
+    <li> <b>Five Guys</b> </li>
+    <p > <b> Delicious hearty classic americana! </b> </p>
+    <img src="https://bit.ly/3rR5bX0" alt="Five Guys Meal" width="400" height="425" >
+    
+    <br></br>
+    <br></br>
+   
+   <li> <b>Chipotle</b> </li>
+   <p > This burrito is to die for! </p> 
+    <img src="https://bit.ly/3xUothL" alt="Chipotle Burrito" width="400" height="425"  >
+  
+    <br></br>
+    <br></br>
+   
+     <li> <b>Classic</b> </li>
+     <p> For a quick yet <b> Delicious </b> homeade meal. Make some classic! </p>
+    <img src="https://bit.ly/3OEPITq" alt="Classic" width="400" height="425" >
+    
+
+    </ul>
+
+<h2> Thanks for checking out this weeks <strong> Favorite Foods List! </strong> </h2> 
+
+<h3> Be sure to explore our other rek recipes </h3>
+
+</body>
+</html>
